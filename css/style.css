@@ -1,0 +1,276 @@
+@import "null.css";
+
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+.block {
+    background: url("../image/b8c243eaa0fbac8115e0cdccac3f91dc.jpg") center / cover  ;
+}
+.zag {
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
+    max-width: 100% ;
+    min-height: 150px;
+    padding: 50px;
+    color: blueviolet;
+}
+.text {
+    background-color: aqua;
+    font-size: 25px;
+    text-align: left;
+    max-width: 350px;
+    min-height: 300px;
+    border-left: 2px black;
+    margin: 0px 0px 0px 20px;
+}
+.text2 {
+    background-color: burlywood;
+    font-size: 25px;
+    max-width: 500px;
+    min-height: 600px;
+    text-align: center;
+    
+    padding: 100px;
+    border-radius: 50%;
+    margin: 0px 0px 100px;
+}
+.zag2 {
+    font-size: 40px;
+    max-width: 700px;
+    min-height: 100px;
+    color:lime;
+    font-weight: 700;
+    margin: 0px auto 10px auto;
+}
+.text4 {
+    background: url('../image/images\ \(1\).jpg');
+    font-size: 40px;
+    max-width: 700px;
+    min-height: 700px;
+    color:black;
+    font-weight: 700;
+    margin: 0px auto 100px auto;
+}
+.zag3 {
+    background-color: aqua;
+    font-size: 40px;
+    color:blue;
+    max-width: 700px;
+    min-height: 100px;
+    margin: 0px auto 30px auto;
+
+}
+
+.text5 {
+    /* background-color: blueviolet; */
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(122,48,125,0.7502926601452774) 53%, rgba(253,187,45,1) 100%);
+    max-width: 900px;
+    min-height: 600px;
+    font-size: 35px;
+    font-style: italic;
+    padding: 10px 0px 0px 30px;
+    margin: 0px auto 100px auto;
+
+}
+.zag4 {
+    color: brown;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    padding: 0px 0px 0px 15px;
+    margin:0px auto 50px auto ;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.text6 {
+    color:black;
+    background:url(../image/images\ \(3\).jpg);
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration: overline;
+    padding: 40px 0px 20px 20px;
+    margin: 0px auto 50px auto;
+}
+.text7 {
+    color:chocolate;
+    background:url(../image/images\ \(3\).jpg) center/ 100% no-repeat;
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration: overline;
+    padding: 150px 0px 20px 20px;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+.text8 {
+    color:crimson;
+    background:url(../image/images\ \(3\).jpg) center/ auto repeat-x;
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration:underline;
+    padding: 150px 0px 20px 20px;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+ 
+.text9 {
+    color:blueviolet;
+    background:url(../image/images\ \(3\).jpg) center/ auto repeat-y;
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration:underline;
+    padding: 150px 0px 20px 20px;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+
+.text10 {
+    color:darkgreen;
+    background:url(../image/images\ \(3\).jpg) center/ auto space;
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration:underline;
+    padding: 150px 0px 20px 20px;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+
+.text11 {
+    color:darkgreen;
+    background:url(../image/images\ \(3\).jpg) center/ auto round;
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration:underline;
+    padding: 150px 0px 20px 20px;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+.zag5 {
+    color: brown;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    padding: 0px 0px 0px 15px;
+    margin:0px auto 50px auto ;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.text12 {
+    color: red;
+    background:url(../image/images\ \(4\).jpg) center/ auto no-repeat;
+    background-color: blue;
+    font-weight: 600;
+    font-size: 35px;
+    min-height: 600px;
+    max-width: 900px;
+    text-decoration:underline;
+    padding: 150px 0px 20px 20px;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+.zag6 {
+    color: brown;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    padding: 0px 0px 0px 15px;
+    margin:0px auto 50px auto ;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.text13 {
+    color: indigo;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    text-align: center;
+    margin:0px auto 50px auto ;
+    background:url(../image/images.jpg)center/ 100px no-repeat;
+}
+.text14 {
+    color:black;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    text-align: center;
+    margin:0px auto 50px auto ;
+    background:url(../image/images.jpg) 0 0 / contain no-repeat;
+}
+.text15 {
+    color:brown;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    text-align: center;
+    margin:0px auto 50px auto ;
+    background:url(../image/images.jpg) center / cover no-repeat;
+}
+.zag7 {
+    color: brown;
+    max-width: 900px;
+    min-height: 100px;
+    font-size: 40px;
+    padding: 0px 0px 0px 15px;
+    margin:0px auto 50px auto ;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.text16 {
+    color:black;
+    max-width: 900px;
+    min-height: 500px;
+    font-size: 40px;
+    text-align: center;
+    margin:0px auto 50px auto ;
+    background:url(../image/ep1_background010000.jpg) center / cover no-repeat fixed;
+
+}
+.text17{
+    outline: 10px dashed blue;
+    color:black;
+    max-width: 250px;
+    height: 50px;
+    overflow: auto;
+    font-size: 40px;
+    text-align: center;
+    margin:0px auto 50px auto ;
+    background:url(../image/ep1_background010000.jpg) center / cover no-repeat fixed;
+}
+.text18 {
+    color:brown;
+    max-width: 900px;
+    min-height: 500px;
+    font-size: 40px;
+    padding: 100px;
+    border: 5px solid forestgreen;
+    text-align: center;
+    margin:0px auto 50px auto ;
+    background:url(../image/images\ \(1\).jpg) center / cover no-repeat;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+}
+.text19 {
+    color:brown;
+    max-width: 900px;
+    min-height: 500px;
+    font-size: 40px;
+    padding: 100px;
+    box-shadow: inset 0px 10px 10px 10px red;
+    text-align: center;
+    margin:0px auto 50px auto ;
+}
